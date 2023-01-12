@@ -299,11 +299,11 @@ function PageOne() {
             </div>   Special Discount 50%
           </div>
         </div>
-        <a href='#'>
+        <Link to="/signin">
           <p>
           </p><div className="user-name signup" style={{width: 'fit-content', padding: '15px'}}> Learn More </div>
           <p />
-        </a>
+        </Link>
       </div>
     </div>
     <div className="flippingside flp">
