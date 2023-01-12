@@ -1,5 +1,5 @@
 import React from 'react' 
-import { useState, useRef, useEffect } from 'react' 
+import { useState, useRef } from 'react' 
 import { Link } from 'react-router-dom'
 
 
@@ -20,11 +20,7 @@ function Mynav() {
       };
 
 
-      const sectionRef = useRef(null);
 
-      const scrollhandleClick = () => {
-        sectionRef.current.scrollIntoView({ behavior: 'smooth' });
-      };
 
 
 
