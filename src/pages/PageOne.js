@@ -269,7 +269,7 @@ function PageOne() {
     </div>
     <div className="flippingside ">
       <div className="flipsidea">
-        <img src="https://github.com/Manlikevee/mpawa/raw/master/Frame 247.png" alt="" />
+        <img src="https://github.com/Manlikevee/mpawa/raw/master/Frame 247.png" alt="asa" />
       </div>
       <div className="flipsideb">
         <div className="littletxt">MPAWA</div>
@@ -299,7 +299,7 @@ function PageOne() {
             </div>   Special Discount 50%
           </div>
         </div>
-        <a href>
+        <a href='#'>
           <p>
           </p><div className="user-name signup" style={{width: 'fit-content', padding: '15px'}}> Learn More </div>
           <p />
@@ -325,12 +325,12 @@ function PageOne() {
         </a>
       </div>
       <div className="flipsidea">
-        <img src="https://github.com/Manlikevee/mpawa/raw/master/gettyimages-504918954-2048x2048 1.png" alt="" style={{borderRadius: '20px'}} />
+        <img src="https://github.com/Manlikevee/mpawa/raw/master/gettyimages-504918954-2048x2048 1.png" alt="sample" style={{borderRadius: '20px'}} />
       </div>
     </div>
     <div className="flippingside">
       <div className="flipsidea">
-        <img src="https://github.com/Manlikevee/mpawa/raw/master/gettyimages-1340847240-2048x2048 1.png" alt="" style={{borderRadius: '20px'}} />
+        <img src="https://github.com/Manlikevee/mpawa/raw/master/gettyimages-1340847240-2048x2048 1.png" alt="sas" style={{borderRadius: '20px'}} />
       </div>
       <div className="flipsideb">
         <div className="littletxt">MPAWA</div>
