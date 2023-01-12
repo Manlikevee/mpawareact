@@ -3226,7 +3226,7 @@ text-align: left;
     will-change: transform;
 }
 
-.brands__wrapper>a,
+.brands__wrapper>span,
 .brands__wrapper>img {
     position: relative;
     display: inline-block;
@@ -3234,7 +3234,7 @@ text-align: left;
     vertical-align: middle;
 }
 
-.brands__wrapper>a img {
+.brands__wrapper>span img {
     max-width: 15rem;
     max-height: 8.5rem;
 }

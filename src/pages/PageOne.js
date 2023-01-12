@@ -82,28 +82,28 @@ function PageOne() {
       <div className="brands">
         <div className="brands__preWrapper">
           <div className="brands__wrapper">
-            <a href="#"><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group%20141.png" /></a>
-            <a href="#"><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 142.png" /></a>
-            <a href="#"><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 144.png" /></a>
-            <a href="#"><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 145.png" /></a>
-            <a href="#"><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 146.png" /></a>
-            <a href="#"><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 144.png" /></a>
-            <a href="#"><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 141.png" /></a>
-            <a href="#"><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 144.png" /></a>
-            <a href="#"><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 146.png" /></a>
-            <a href="#"><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 142.png" /></a>
-            <a href="#"><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 144.png" /></a>
-            <a href="#"><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 141.png" /></a>
-            <a href="#"><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 142.png" /></a>
-            <a href="#"><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 144.png" /></a>
-            <a href="#"><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 145.png" /></a>
-            <a href="#"><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 146.png" /></a>
-            <a href="#"><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 144.png" /></a>
-            <a href="#"><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 141.png" /></a>
-            <a href="#"><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 144.png" /></a>
-            <a href="#"><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 146.png" /></a>
-            <a href="#"><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 142.png" /></a>
-            <a href="#"><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 144.png" /></a>
+            <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group%20141.png" alt='sas' /></span>
+            <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 142.png" alt='sas' /></span>
+            <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 144.png" alt='sas' /></span>
+            <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 145.png" alt='sas' /></span>
+            <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 146.png" alt='sas' /></span>
+            <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 144.png" alt='sas' /></span>
+            <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 141.png" alt='sas' alt='sas' /></span>
+            <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 144.png" alt='sas' /></span>
+            <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 146.png" alt='sas' /></span>
+            <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 142.png" alt='sas' /></span>
+            <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 144.png" alt='sas' /></span>
+            <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 141.png" alt='sas' /></span>
+            <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 142.png" alt='sas' /></span>
+            <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 144.png" alt='sas' /></span>
+            <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 145.png" alt='sas' /></span>
+            <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 146.png" alt='sas' /></span>
+            <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 144.png" alt='sas' /></span>
+            <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 141.png" alt='sas' /></span>
+            <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 144.png" alt='sas' /></span>
+            <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 146.png" alt='sas' /></span>
+            <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 142.png" alt='sas' /></span>
+            <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 144.png" alt='sas' /></span>
           </div>
         </div>
       </div>
