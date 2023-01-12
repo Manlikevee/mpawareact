@@ -88,7 +88,7 @@ function PageOne() {
             <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 145.png" alt='sas' /></span>
             <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 146.png" alt='sas' /></span>
             <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 144.png" alt='sas' /></span>
-            <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 141.png" alt='sas' alt='sas' /></span>
+            <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 141.png" alt='sas' /></span>
             <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 144.png" alt='sas' /></span>
             <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 146.png" alt='sas' /></span>
             <span><img src="https://github.com/Manlikevee/mpawa/raw/master/New%20folder/Group 142.png" alt='sas' /></span>
