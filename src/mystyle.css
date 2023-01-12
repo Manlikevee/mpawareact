@@ -2418,7 +2418,7 @@ font-size: 30px;
      gap: 20px;
      overflow-x: auto !important;
      scroll-snap-type: inline mandatory;
-     justify-content: start;
+     justify-content: flex-start;
      height: fit-content;
 
      transition: all .4s ease;
@@ -2464,7 +2464,7 @@ display: flex;
      gap: 20px;
      overflow-x: auto !important;
      scroll-snap-type: inline mandatory;
-     justify-content: start;
+     justify-content: flex-start;
      height: fit-content;
      transition: all .9s ease;
      transition: all .4s ease;
@@ -2494,7 +2494,7 @@ transition: all .5s ease;
      gap: 20px;
      overflow-x: auto !important;
      scroll-snap-type: inline mandatory;
-     justify-content: start;
+     justify-content: flex-start;
      height: fit-content;
 }
 .overviewscrolls   .cardstoscroll{
@@ -2510,7 +2510,7 @@ scroll-snap-align: start;
      gap: 20px;
      overflow-x: auto !important;
      scroll-snap-type: inline mandatory;
-     justify-content: start;
+     justify-content: flex-start;
      height: fit-content;
 }
 .dashcardss   .dashcard{
