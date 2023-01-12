@@ -42,8 +42,8 @@ function Mynav() {
     <Link to="#">Programs</Link>
     <Link to="#">Become a partner</Link>
  
-    <Link to="#"> <div className="user-names signup" style={{color: 'var(--nanocolor)'}}> Log in</div></Link>
-    <Link to="#"><div className="user-names login" style={{color: 'var(--nanocolor)'}}>Get Started</div></Link>
+    <Link to="/signin"> <div className="user-names signup" style={{color: 'var(--nanocolor)'}}> Log in</div></Link>
+    <Link to="/signup"><div className="user-names login" style={{color: 'var(--nanocolor)'}}>Get Started</div></Link>
   </div>
   <div className="user-settings">
     <div className="dark-light"id="body-btn" onClick={handleClick} >
